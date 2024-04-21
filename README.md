@@ -33,6 +33,6 @@ class MyComponent extends React.PureComponent {
 - `dx` : Provide the initial x co-ordinate to pan the underlying element to be. `0` by default
 - `dy` : Provide the initial y co-ordinate to pan the underlying element to be. `0` by default
 
-For more information on what `dx` and `dy` mean please [refer here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/matrix)
+For more information on what `dx` and `dy` mean please [refer here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/matrix)ssss
 `(tx == dx and ty == dy)`.
 
