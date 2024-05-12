@@ -10,7 +10,7 @@ A simple pan and zoom for canvas like elements in react.
 ```
 > yarn add @ajainarayanan/react-pan-zoom
 ```
-
+1
 ## Usage
 
 ```typescript
