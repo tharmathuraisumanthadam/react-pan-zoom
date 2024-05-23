@@ -24,7 +24,7 @@ class MyComponent extends React.PureComponent {
       </ReactPanZoom>
     );
   }
-}
+}s
 ```
 
 ## Props
