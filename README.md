@@ -1,4 +1,4 @@
-# React Pan & Zoom
+# React Pan & Z2oom
 
 A simple pan and zoom for canvas like elements in react.
 
